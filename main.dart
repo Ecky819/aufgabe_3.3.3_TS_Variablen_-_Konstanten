@@ -1,5 +1,5 @@
 void main() {
-  String gdStr = "GUten";
+  String gdStr = "Guten";
   String dayStr = "Tag";
   String worldStr = "Welt";
   int d = 20;
