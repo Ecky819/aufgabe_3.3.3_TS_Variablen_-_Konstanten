@@ -9,7 +9,7 @@ void main() {
   String e = "!";
   int a = 24;
   String c = "Schöne";
-  String morniung = "Morgen";
+  String morning = "Morgen";
   String s = "Heute";
   String spa = " ";
 }
