@@ -1,0 +1,15 @@
+void main() {
+  String gdStr = "GUten";
+  String dayStr = "Tag";
+  String worldStr = "Welt";
+  int d = 20;
+  String timeStr = "Zeit";
+  int seven = 7;
+  int twelve = 12;
+  String d = "!";
+  int a = 24;
+  String c = "Schöne";
+  String morniung = "Morgen";
+  String s = "Heute";
+  String spa = " ";
+}
